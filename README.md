@@ -13,6 +13,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain-wordmark.svg" alt="Bash" width="40" height="40" />
+  <a href="https://www.jetbrains.com/es-es/pycharm/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" alt="PyCharm" width="40" height="40"/>
 </div>
 
 ## &#x1f4c8; GitHub Stats
