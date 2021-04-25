@@ -27,5 +27,5 @@
 </a><br><br>
 </p> -->
 <p align="center">
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sapirmadmon&hide=C%23%0A,html&theme=dark"/> 
+ <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sapirmadmon&hide=C%23%0A,html&theme=dark"/> 
 </p>
