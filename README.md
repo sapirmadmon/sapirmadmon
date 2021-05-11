@@ -18,7 +18,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg?raw=true" alt="python" width="40" height="40"/>
   <img src="https://github.com/caidevOficial/Logos/blob/master/Lenguajes/logo-eclipse.png?raw=true" alt="Eclipse" width="40" height="40" />
-    <img src=" https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg?raw=true" alt="nodejs" width="40" height="40" />
+    <img src=" https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" />
 
  
   <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> -->
